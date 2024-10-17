@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background-container {
+    background-image: url('../img/Gon1.png');
+    background-size: cover ;
+}
+
+.col-lg-6{
+ 
+    background-color:#c7d5e0 ;
+}
+.gradient-custom-2 {
+    
+    background: linear-gradient(90deg, rgba(37,134,148,1) 0%, rgba(38,188,240,0.6671043417366946) 100%);
+    }
+ 
+    
+   
+    @media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh !important;
+    }
+    }
+    @media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }
+
+    .gradient-custom-2 {
+        background: rgb(37,134,148);
+        background: linear-gradient(90deg, rgba(37,134,148,1) 0%, rgba(38,188,240,0.6671043417366946) 100%);
+        }
+    .col-lg-6{
+        background-color: #c7d5e0;
+    }
+     
+    html{
+         
+        background-color: rgba(0, 0, 0, 0.856)
+    }
+     
+        @media (min-width: 768px) {
+        .gradient-form {
+        height: 100vh !important;
+        }
+        }
+        @media (min-width: 769px) {
+        .gradient-custom-2 {
+        border-top-right-radius: .3rem;
+        border-bottom-right-radius: .3rem;
+        }
+        }
